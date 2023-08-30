@@ -10,6 +10,7 @@ import Theme from '../components/Theme'
 import AboutNBC from '../components/AboutNBC'
 import EventTimer from '../components/EventTimer'
 import Carousel from '../components/Carousel'
+import ImportantDates from '../components/ImportantDates'
 
 const Home = () => {
   return (
@@ -21,6 +22,7 @@ const Home = () => {
     <AboutNBC />
     <Carousel />
     <Theme />
+    <ImportantDates />
     <Organising />
     <Schedule />
     <Ticket />

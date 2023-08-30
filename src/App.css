@@ -369,3 +369,9 @@ justify-content: space-around;
 #fees-dropdown:not(:disabled){
   background-color: transparent;
 }
+
+@media (max-width : 760px){
+  .imp-date-cont span{
+    display: block;
+  }
+}
