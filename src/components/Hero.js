@@ -17,6 +17,7 @@ const Hero = () => {
 		<div class="hero-block-mask"></div>
 		<div class="container hero-text-center">
 			<div class="hero-text-block">
+				<img style={{width : '7rem'}} src='/images/logos/nbc.png' alt=''/>
 				<h1 class="hero-heading mb-2">NBC 2023</h1>
 				<div class="hero-meta mb-3"><i class="fa-solid fa-book me-2"></i>
 				Bioengineering in Healthcare, Environment & Agriculture
