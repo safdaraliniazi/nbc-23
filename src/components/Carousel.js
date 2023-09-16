@@ -48,43 +48,43 @@ const Carousel = () => {
                 }}
               >
                 <SwiperSlide>
-                  <img className="img-fluid" src="/images/carousel/1.jpeg" />
+                  <img className="img-fluid"  src="/images/carousel/1.webp" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img className="img-fluid" src="/images/carousel/2.jpeg" />
+                  <img className="img-fluid" src="/images/carousel/2.webp" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img className="img-fluid" src="/images/carousel/3.jpg" />
+                  <img className="img-fluid" src="/images/carousel/3.webp" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img className="img-fluid" src="/images/carousel/4.jpg" />
+                  <img className="img-fluid" src="/images/carousel/4.webp" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img className="img-fluid" src="/images/carousel/5.jpg" />
+                  <img className="img-fluid" src="/images/carousel/5.webp" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img className="img-fluid" src="/images/carousel/6.jpg" />
+                  <img className="img-fluid" src="/images/carousel/6.webp" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img className="img-fluid" src="/images/carousel/7.jpg" />
+                  <img className="img-fluid" src="/images/carousel/7.webp" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img className="img-fluid" src="/images/carousel/8.jpg" />
+                  <img className="img-fluid" src="/images/carousel/8.webp" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img className="img-fluid" src="/images/carousel/9.jpg" />
+                  <img className="img-fluid" src="/images/carousel/9.webp" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img className="img-fluid" src="/images/carousel/10.jpeg" />
+                  <img className="img-fluid" src="/images/carousel/10.webp" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img className="img-fluid" src="/images/carousel/11.jpeg" />
+                  <img className="img-fluid" src="/images/carousel/11.webp" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img className="img-fluid" src="/images/carousel/12.jpeg" />
+                  <img className="img-fluid" src="/images/carousel/12.webp" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img className="img-fluid" src="/images/carousel/13.jpg" />
+                  <img className="img-fluid" src="/images/carousel/13.webp" />
                 </SwiperSlide>
               </Swiper>
             </div>

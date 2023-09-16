@@ -96,7 +96,7 @@ const Schedule = () => {
   },
   {
     name: 'Dr. Achlesh Daverey',
-    designation: 'Associate Professor',
+    designation: 'Assistant Professor',
     location: 'Doon University',
     specialisation : 'Biological wastewater treatment, Biological nitrogen removal (Anammox Process) • Bioremediation, Phytoremediation/Constructed Wetlands • Waste valorization for value-added products (Biosurfactants, Biochar, Bioenergy) • Bioprocess Design, Optimization & Kinetics',
     image: 'k12.jpg'
@@ -253,7 +253,7 @@ const Schedule = () => {
               <Speaker name = {speakers[9].name} designation ={speakers[9].designation} location = {speakers[9].location} image = {speakers[9].image} specialisation = {speakers[9].specialisation}   />
               <Speaker name = {speakers[10].name} designation ={speakers[10].designation} location = {speakers[10].location} image = {speakers[10].image} specialisation = {speakers[10].specialisation}   />
               <Speaker name = {speakers[11].name} designation ={speakers[11].designation} location = {speakers[11].location} image = {speakers[11].image} specialisation = {speakers[11].specialisation}   />
-0
+
                 </div>
 
                 <div
@@ -267,7 +267,7 @@ const Schedule = () => {
 
 
 
-<Speaker name = {speakers[12].name} designation ={speakers[12].designation} location = {speakers[12].location} image = {speakers[12].image} specialisation = {speakers[12].specialisation}   />
+{/* <Speaker name = {speakers[12].name} designation ={speakers[12].designation} location = {speakers[12].location} image = {speakers[12].image} specialisation = {speakers[12].specialisation}   /> */}
 <Speaker name = {speakers[13].name} designation ={speakers[13].designation} location = {speakers[13].location} image = {speakers[13].image} specialisation = {speakers[13].specialisation}   />
 
                 </div>
