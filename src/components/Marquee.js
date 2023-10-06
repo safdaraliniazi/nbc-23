@@ -10,11 +10,14 @@ const Marquee = () => {
       <b>Important dates</b>
       <br />
     </span>
-    Abstract submission deadline:September 30th,2023 .Communication of acceptance:October 10th,2023 .Registration deadline:October 15th, 2023
+    Abstract submission deadline:October 10th,2023 .Communication of acceptance:October 15th,2023 .Registration deadline:October 25th, 2023
   </p>
  <div className='award '>
  <p>
   Awards will be given for Best Poster and Oral Presentations
+  </p>
+  <p className='text-white'>
+  Online participation is permitted after registration
   </p>
  </div>
 </marquee>
