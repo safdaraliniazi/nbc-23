@@ -23,9 +23,13 @@ const Hero = () => {
 				Bioengineering in Healthcare, Environment & Agriculture
 				<br/>
 				<i class="fa-solid fa-calendar-days"></i> 9 - 11 Nov</div>
-				<div class="hero-intro mb-4">Department of Biotechnology and
+				<div class="hero-intro">Department of Biotechnology and
 Medical Engineering <br /><i class="fa-solid fa-location-dot"></i> NIT Rourkela</div>
+
+				<div class="hero-intro m-1 event-mode">Event Mode: Hybrid </div>
+
 				<div class="hero-cta"><a class="btn btn-primary btn-lg" href="https://docs.google.com/forms/d/e/1FAIpQLSfWXWQqs2nyY-9gVB1H5NgGQjUscMe8HyHWxcCx47CkvQIPAg/viewform?usp=sf_link" target="_blank">Register Now</a></div>
+				
 				
 			</div>
 		</div>
