@@ -28,7 +28,10 @@ Medical Engineering <br /><i class="fa-solid fa-location-dot"></i> NIT Rourkela<
 
 				<div class="hero-intro m-1 event-mode">Event Mode: Hybrid </div>
 
-				<div class="hero-cta"><a class="btn btn-primary btn-lg" href="https://docs.google.com/forms/d/e/1FAIpQLSfWXWQqs2nyY-9gVB1H5NgGQjUscMe8HyHWxcCx47CkvQIPAg/viewform?usp=sf_link" target="_blank">Register Now</a></div>
+			<div className='d-flex justify-content-evenly'>
+			<div class="hero-cta"><a class="btn btn-primary btn-lg" href="https://docs.google.com/forms/d/e/1FAIpQLSfWXWQqs2nyY-9gVB1H5NgGQjUscMe8HyHWxcCx47CkvQIPAg/viewform?usp=sf_link" target="_blank">Register Now</a></div>
+				<div class="hero-cta"><a class="btn btn-secondary btn-lg" href="/assets/Program Schedule.pdf" target="_blank">Program Schedule</a></div>
+			</div>
 				
 				
 			</div>
