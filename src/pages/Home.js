@@ -18,7 +18,7 @@ const Home = () => {
     <Navbar />
     <Hero />
     <Marquee />
-    <EventTimer />
+    {/* <EventTimer /> */}
     <AboutNBC />
     <Carousel />
     <Theme />
